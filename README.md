@@ -1,2 +1,2 @@
-# Magnificent_7_Stock_analysis
+# Magnificent 7 Stock_analysis
 
