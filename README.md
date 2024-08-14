@@ -31,12 +31,12 @@ To run this project locally, follow these steps:
 ## Analytical Methods & Visualisation
 1. Time Series Analysis focus on closing 
 <p align="center">
-<img src="https://github.com/SinaKeyhani/Stock_analysis/blob/main/newplot.png" alt="Project Image" width="500" height="400"/>
+<img src="https://github.com/SinaKeyhani/Stock_analysis/blob/main/newplot.png" alt="Project Image" width="600" height="600"/>
 </p>
 
 2. Time Series Analysis focus on Volume 
 <p align="center">
-<img src="https://github.com/SinaKeyhani/Stock_analysis/blob/main/newplot_vol.png" alt="Project Image" width="500" height="400"/>
+<img src="https://github.com/SinaKeyhani/Stock_analysis/blob/main/newplot_vol.png" alt="Project Image" width="600" height="600"/>
 </p>
 
 3. Volatility of Closing Prices
