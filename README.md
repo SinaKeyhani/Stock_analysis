@@ -60,14 +60,6 @@ To run this project locally, follow these steps:
 <img src="https://github.com/SinaKeyhani/Stock_analysis/blob/main/newplot_return.png" alt="Project Image" width="500" height="400"/>
 </p>
 
-<!-- Reference -->
-https://finance.yahoo.com/quote/NVDA/history/?period1=1691625600&period2=1723248000
-https://www.investopedia.com/magnificent-seven-stocks-8402262
-
-
-
-
-
-
-
-
+## Reference
+Stock Market data from Yahoo Finance: https://finance.yahoo.com/quote/NVDA/history/?period1=1691625600&period2=1723248000
+Magnificent 7 : https://www.investopedia.com/magnificent-seven-stocks-8402262
