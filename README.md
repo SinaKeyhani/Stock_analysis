@@ -52,7 +52,7 @@ To run this project locally, follow these steps:
 5. Risk vs. Return Analysis
 
 <p align="center">
-<img src="https://github.com/SinaKeyhani/Stock_analysis/blob/main/Screenshot%202024-08-14%20at%2016.17.37.png" alt="Project Image" width="500" height="400"/>
+<img src="https://github.com/SinaKeyhani/Stock_analysis/blob/main/Screenshot%202024-08-14%20at%2016.17.37.png" alt="Project Image" width="300" height="300"/>
 </p>
 
 
